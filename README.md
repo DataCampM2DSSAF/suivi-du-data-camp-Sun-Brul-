@@ -1,5 +1,5 @@
 =======
-**Kaggle OpenVaccine: COVID-19 Project **
+Kaggle OpenVaccine: COVID-19 Project
 =======
 
 1st week objective:
