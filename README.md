@@ -3,4 +3,4 @@ Kaggle OpenVaccine: COVID-19 Project
 
 Pour le suivi:
 
-Voir Notebook: Suivi du travail effectué 
+Voir Notebook "Suivi du travail "
