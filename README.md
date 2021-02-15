@@ -6,7 +6,6 @@ Pour le suivi:
 Voir Notebook "Suivi du travail "
 
 
-======= 
 
 # Status (15 Feb 2021):
 * **Currently:** Finished EDA visualisation part, need do analysis 
